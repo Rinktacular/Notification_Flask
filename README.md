@@ -1,4 +1,8 @@
-To run the application:
+## Using the following packages
+- flask
+- flask-restful
+- flask-socketio (with eventlet for async support)
+- flask-sqlalchemy
 
 ## Required packages
 - pip install flask flask_RESTful flask_sqlalchemy flask_socketio
