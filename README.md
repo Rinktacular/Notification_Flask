@@ -27,4 +27,5 @@
     "message": "This is a test notification created using Postman."
   }
 
-## Notification should appear in the DOM if the React app is running on the '/notifications' route
+## Notification should appear in the DOM for the partnering React App
+![image](https://github.com/user-attachments/assets/a2e3285f-7a5c-4557-8d79-8fd6478adab2)
