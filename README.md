@@ -5,7 +5,7 @@
 - flask-sqlalchemy
 
 ## Required packages
-- pip install flask flask_RESTful flask_sqlalchemy flask_socketio
+- pip install flask flask-restful flask_sqlalchemy flask_socketio eventlet
 
 ## Create DB (in terminal)
   from app import create_app, db
