@@ -1,0 +1,10 @@
+#caching
+app/__pycache__/
+
+# virtual env
+venv/
+env/
+sockets/
+
+# DB changes
+instance/
